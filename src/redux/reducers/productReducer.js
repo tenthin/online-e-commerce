@@ -1,7 +1,7 @@
 import { ActionTypes } from "../constants/action-types";
 
 const initialState = {
-    product: [
+    products: [
         {
         id:1,
         title:"Tenzin",
